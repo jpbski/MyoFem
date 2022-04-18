@@ -1,2 +1,2 @@
 # MyoFem
-Modeling outcome from female patients suffering myocardial infarction
+Modeling outcome from female patients who suffered myocardial infarction
